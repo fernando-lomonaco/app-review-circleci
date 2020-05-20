@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mobx_circleci/screens/review.screen.dart';
+import 'package:mobx_circleci/src/screens/review.screen.dart';
 
 void main() {
   runApp(MyApp());

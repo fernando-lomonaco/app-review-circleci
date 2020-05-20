@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:mobx_circleci/models/review.model.dart';
-import 'package:mobx_circleci/stores/review.store.dart';
-import 'package:mobx_circleci/widgets/toast_dialog.dart';
+import 'package:mobx_circleci/src/models/review.model.dart';
+import 'package:mobx_circleci/src/stores/review.store.dart';
+import 'package:mobx_circleci/src/widgets/toast_dialog.dart';
 
 class ReviewWidget extends StatelessWidget {
   final ReviewModel reviewItem;

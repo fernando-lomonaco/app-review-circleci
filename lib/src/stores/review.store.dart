@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:mobx/mobx.dart';
-import 'package:mobx_circleci/models/review.model.dart';
+import 'package:mobx_circleci/src/models/review.model.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 part 'review.store.g.dart';
