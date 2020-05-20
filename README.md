@@ -1,4 +1,4 @@
-[![<CircleCI>](https://circleci.com/gh/fernando-lomonaco/app-review-circleci.svg?style=svg)](<https://circleci.com/gh/fernando-lomonaco/app-review-circleci>)
+[![<CircleCI>](https://circleci.com/gh/fernando-lomonaco/app-review-circleci.svg?style=shield)](<https://circleci.com/gh/fernando-lomonaco/app-review-circleci>)
 
 
 # mobx_circleci
